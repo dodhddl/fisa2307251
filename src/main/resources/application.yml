@@ -7,7 +7,7 @@ spring:
   datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
     password: rootroot
-    url: jdbc:mysql://user08-mysql.csshl99oapfn.ap-northeast-1.rds.amazonaws.com:3306/fisa?characterEncoding=UTF-8
+    url: jdbc:mysql://user07-mysql.cnqwxpaw1dij.ap-northeast-2.rds.amazonaws.com:3306/fisa?characterEncoding=UTF-8
     username: root
   jpa:
     database: mysql
